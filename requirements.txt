@@ -1,5 +1,5 @@
 streamlit
 tensorflow
 numpy
-matplot.lib
+matplotlib
 pillow
